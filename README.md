@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏴‍☠️ My last project (self hosted vulnerable web app): https://github.com/Mathis-Dory/ramuna-vulnerable-website/ <br><br>👨🏻‍🎓 I'm studying at University of Bucharest<br><br>👨‍💻 My personnal website https://mathisdory.com/<br><br>:triangular_flag_on_post: My hacking and CTF team https://dothidden.xyz
+🏴‍☠️ My last project (self hosted vulnerable web app): https://github.com/Mathis-Dory/ramuna-vulnerable-website/ <br><br>👨🏻‍🎓 I'm studying Cyber Security at University of Bucharest<br><br>👨‍💻 My personnal website https://mathisdory.com/<br><br>:triangular_flag_on_post: My hacking and CTF team https://dothidden.xyz
 
 
 ## 🌐 Socials:
