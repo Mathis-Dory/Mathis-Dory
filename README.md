@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏴‍☠️ My last project (SAC agent exploiting SQLi): https://github.com/Mathis-Dory/master-thesis <br><br>👨🏻‍🎓 I'm studying Cyber Security at University of Bucharest<br><br><br>:triangular_flag_on_post: My hacking and CTF team https://dothidden.xyz
+<br>👨🏻‍🎓 I'm studying Cyber Security at University of Bucharest<br><br><br>:triangular_flag_on_post: My hacking and CTF team https://dothidden.xyz
 
 
 ## 🌐 Socials:
