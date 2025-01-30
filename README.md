@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👨🏻‍🎓 I'm studying Cyber Security at University of Bucharest<br><br><br>:triangular_flag_on_post: My hacking and CTF team https://dothidden.xyz
+<br>👨🏻‍🎓 I studied Cyber Security at University of Bucharest<br><br><br>:triangular_flag_on_post: My hacking and CTF team https://dothidden.xyz
 
 
 ## 🌐 Socials:
